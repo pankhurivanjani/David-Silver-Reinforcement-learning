@@ -51,3 +51,8 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 ## References
 - https://github.com/dennybritz/reinforcement-learning
 - https://github.com/llSourcell/AI_for_Video_Games_Syllabus
+
+
+## Debugging
+
+To solve video render issues in google colab use this https://colab.research.google.com/drive/1flu31ulJlgiRL1dnN2ir8wGh9p7Zij2t
