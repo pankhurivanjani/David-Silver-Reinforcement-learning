@@ -58,3 +58,8 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 To solve video render issues in google colab use this https://colab.research.google.com/drive/1flu31ulJlgiRL1dnN2ir8wGh9p7Zij2t
 
 https://colab.research.google.com/drive/16gZuQlwxmxR5ZWYLZvBeq3bTdFfb1r_6#scrollTo=6L4YayzR4FYj
+
+https://www.thetopsites.net/article/52294762.shtml
+
+https://star-ai.github.io/Rendering-OpenAi-Gym-in-Colaboratory/
+
